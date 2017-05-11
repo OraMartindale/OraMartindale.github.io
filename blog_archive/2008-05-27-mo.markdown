@@ -1,0 +1,14 @@
+---
+author: Ora
+comments: false
+date: 2008-05-27 16:04:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/mo
+slug: mo
+title: '"Mo"'
+wordpress_id: 350
+categories:
+- Ewan
+---
+
+Ewan opened the TV armoire and said "Mo." Enid said that he wanted to watch _Finding Nemo_.

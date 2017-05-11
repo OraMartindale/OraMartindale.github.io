@@ -1,0 +1,52 @@
+---
+author: Ora
+comments: false
+date: 2003-02-12 04:13:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/25
+slug: '25'
+title: No Content Found
+wordpress_id: 25
+---
+
+**To Blog or not to Blog...**
+  
+When I began this blog I first addressed the issue of "Why even have a blog?" In business if you don't have a niche that you are trying to serve, there is little chance for survival. If you are business that is trying to provide a product or service that everyone else provides it's unlikely you'll get noticed. Likewise a blog that is like everyone else's won't get noticed.
+  
+
+  
+Some niches being served in the blog community. Some blogs seem themselves as personal diaries. This probably is the vast majority of blogs and is what mine has been up to this point. My friend, [James](http://www.vanbooven.com), uses his in this manor. Others view themselves as news aggregators: 802.11b aggregates all news about wireless networking; Disenchanted catholic aggregates religious news. Some use blogs as a creative outlet; [Kevin](http://www.ketnerlake.com) uses his as a way to practice his writing skills which he hopes to hone into a career someday. Others address only a specific topic; one of my favorites is Apple's product manager for Mac OS X (codenamed and now formally named Jaguar). Each day he addresses a different feature of Jaguar's 150 new features.
+  
+
+  
+Some are combinations of the above categories. I can count on [Jason's](http://www.grizzlybase.com) being an interesting mix of the days news, his views, song lyrics that open a window to his souls song that day, and personal notes on what is going on. Jeremy Allaire's site usually focuses on what cool new technologies that Macromedia is looking at (since that's Jeremy's job description). He gives amazing views on what technologies are really cool, how they could be used and what Macromedia could do with it in the future. Sometimes it feels like I know the product line coming before they make an announcement. But with that he also touches on news events he's read from other sites and personal touches.
+  
+
+  
+By far there are two types that I visit the most: Specific topic sites and personal sites. I love Ken's site because it focuses on one thing: Apple's Jaguar. I love Jeremy's site because he is talking tech in the feild I love. I visit Jason, James, and Kevin's sites because I want to know what is going on in there life and often their sites are more personal than they are willing to get face to face. 
+  
+
+  
+So I knew my site would have to address a niche or be very personal. I had two ideas. One fits very well into the niche category and is what I will discuss today. The other is a very personal, life-changing journey upon which I am about to embark. It's a story that many in the world have gone down, fewer have approached it as I am about to and rarely has anyone documented it. I will discuss it in a future post.
+  
+
+  
+I am then left with two niches to tell about. I don't know if I will continue to blog in the format I have in the past and have considered deleting the blog completely and starting fresh. However a blog is a personal note on how the author was thinking at a particular moment. Editing of a blog should not be allowed unless the author notes an update to the blog that would let the user know that he has changed his original thought. No one should be allowed to rewrite history, therefore the past blogs will stay. I digress.
+  
+
+  
+I am then left with two niches to talk about. The first one begins as such:
+  
+
+  
+**So when do we get flying cars?**
+  
+The Jetsons had it pretty nice. I've started to think a lot about futurists, the idea of looking into the future and predicting what it will be like. This is a notoriously dangerous profession. 50 years ago auto shows purported we would have flying cars; as you walk through the line at Space Mountain in Disney World, a display talks about future roadways with five lanes the fastest of which would go 100 MPH; 2001: A Space Odyssey predicted missions to Jupiter by now; Back to the Future 2 took us 30 years foward into a beautifiul view of the future that seemed plausible in 1985 but seems unlikely now that it's only 12 years away. Recently, the movie Minority Report used a group of futurists to drive the technology used within the plot. Some seems very likely while others seem far-fetched even for 50 years from now.
+  
+
+  
+I don't want to attempt to prognosticate a future 50 years from now, but rather look at the technology that exists today and look at how it will influence our lives 10 to 20 years from now. Much of it already exists, but won't be common place for quite a while.
+  
+
+  
+A lot of what I want to deal with is what a friend would call "transparent computers." Not literally invisible but ways that computers interact with us without us realizing. We use TVs and microwaves but rarely think about the computer chips and software programs that make them run. Currently we think about a computer as the box that sits under our desk. In the future "computer" will be more difficult to define. TVs, microwaves, stoves, cameras, camcorders, telephones and many other household items will continue to become more computer controlled and computers themselves. These are the things I intend to look at.

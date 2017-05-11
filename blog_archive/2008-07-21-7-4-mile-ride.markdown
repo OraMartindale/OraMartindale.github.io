@@ -1,0 +1,14 @@
+---
+author: Ora
+comments: false
+date: 2008-07-21 01:47:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/7-4-mile-ride
+slug: 7-4-mile-ride
+title: 7.4-Mile Ride
+wordpress_id: 370
+categories:
+- biking
+---
+
+The thermometer read 101 degrees when we left tonight for our ride. We had waited until the evening hoping it would cool down, but it didn't, so we went. Despite the heat, we did 7.4 miles.

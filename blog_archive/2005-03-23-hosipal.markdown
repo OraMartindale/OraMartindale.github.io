@@ -1,0 +1,12 @@
+---
+author: Ora
+comments: false
+date: 2005-03-23 05:00:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/hosipal
+slug: hosipal
+title: '"Hosipal"'
+wordpress_id: 127
+---
+
+Ora 5's new phrase: "He's sick. He needs to go to the Hosipal."

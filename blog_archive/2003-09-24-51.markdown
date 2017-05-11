@@ -1,0 +1,22 @@
+---
+author: Ora
+comments: false
+date: 2003-09-24 18:31:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/51
+slug: '51'
+title: No Content Found
+wordpress_id: 51
+---
+
+**Hitler didn't have The Bomb**
+  
+[An interesting BBC article](http://news.bbc.co.uk/1/hi/england/cambridgeshire/3127222.stm) highlights how far behind the U.S.A., German scientists were from creating an A-bomb:
+  
+
+
+<blockquote>Certainly when the Americans captured the German's nuclear research papers they found that the project was at least three years behind the Allies. 
+  
+
+  
+They had not even produced the first stage of the atomic programme, a small crude nuclear reactor - built in the US in 1942. </blockquote>

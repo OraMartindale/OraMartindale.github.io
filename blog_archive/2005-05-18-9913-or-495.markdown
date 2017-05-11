@@ -1,0 +1,14 @@
+---
+author: Ora
+comments: false
+date: 2005-05-18 02:30:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/9913-or-495
+slug: 9913-or-495
+title: 9913 or 495
+wordpress_id: 144
+---
+
+At dinner the other night, our guests and I were discussing the rate at which technology changes. I commented that my first computer had a 1 Gigabyte hard drive and everybody was impressed with that.   
+  
+Tonight, we bought a 1 Gigabye SD card for our digital camera. It is no larger than a postage stamp. Our intention was that we would be able to store all our pictures on the camera while on vacation without having to bring along the laptop to store the pictures. Well, we succeeded: I popped the card into the camera and immediately it told me I had room for 1,270 pictures. At the lowest quality, I can get 9,913 pictures and at the highest: 495. That should be plenty.

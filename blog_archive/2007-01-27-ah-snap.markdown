@@ -1,0 +1,14 @@
+---
+author: Ora
+comments: false
+date: 2007-01-27 19:38:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/ah-snap
+slug: ah-snap
+title: Ah Snap!
+wordpress_id: 249
+categories:
+- Ora 5
+---
+
+"Ah snap!" has become Ora's new favorite expression.

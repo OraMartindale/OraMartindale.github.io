@@ -1,0 +1,33 @@
+---
+author: Ora
+comments: false
+date: 2005-12-31 23:41:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/100000
+slug: '100000'
+title: 100,000
+wordpress_id: 168
+---
+
+Our car rolled over 100,000 miles tonight. Since the display is digital, it really didn't "roll over" as older cars did. So it incremented over 100,000 miles today:  
+  
+
+    
+    <br></br>feet_in_mile =  5280;<br></br>miles_on_car = 0;<br></br>lets_keep_our_car = true;<br></br><br></br>while(car_still_running) {<br></br>  for(feet_traveled = 0; feet_traveled <= feet_in_mile; feet_traveled++) {<br></br>    if(feet_traveled == feet_in_mile) {<br></br>      miles_on_car++;<br></br>    }<br></br>    if(miles_on_car > 100000) {<br></br>      lets_keep_our_car = false;<br></br>    }<br></br>  }<br></br>}<br></br>
+
+  
+  
+
+
+### Code Fix Update
+
+  
+Marcellus caught my programming mistake. I knew only programmers would understand the code. I hadn't expected them to debug it! I had changed the code from being the car breaks down to let's sell the car and I missed a variable. Here's the corrected code:  
+  
+
+    
+    <br></br>feet_in_mile =  5280;<br></br>miles_on_car = 0;<br></br>lets_keep_our_car = true;<br></br><br></br>while(lets_keep_our_car) {<br></br>  for(feet_traveled = 0; feet_traveled <= feet_in_mile; feet_traveled++) {<br></br>    if(feet_traveled == feet_in_mile) {<br></br>      miles_on_car++;<br></br>    }<br></br>    if(miles_on_car > 100000) {<br></br>      lets_keep_our_car = false;<br></br>    }<br></br>  }<br></br>}<br></br>
+
+  
+  
+Nice catch Marcellus!

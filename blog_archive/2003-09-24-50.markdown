@@ -1,0 +1,44 @@
+---
+author: Ora
+comments: false
+date: 2003-09-24 02:32:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/50
+slug: '50'
+title: No Content Found
+wordpress_id: 50
+---
+
+**Major report on Minority Report's technology**
+  
+B.J., Bryan and I were talking about cool new technologies that are coming out in the near future. Ther are some amazing technologies that we perceive are decades in the future, but actually they are right around the corner.
+  
+
+  
+B.J. sent me [an article](http://www.cnn.com/2003/TECH/ptech/09/15/videoscreen.air.reut/index.html) about creating "view screens" (for lack of a better term) that seem to float in the air. The interesting one is the last one. A 29-year-old MIT graduate student created a 27 inch screen that is suspended in the air and the images projected can be manipulated with your hands.
+  
+
+  
+In the CSI episode "Forever," Nick, played by George Eads, is using a large touch screen with pictures from their latest case. As he touches the screen he opens, closes  and moves the images in a fashion that is like Minority Report. The interface and the actions he makes (such as maximize, minimize and move) are much more familiar to us than in Minority Report.
+  
+
+  
+CSI often uses real hardware and software that is used by actual criminologists, so I wonder if this application already exists or if it was simply a prop for the show. I also wonder if we'll see some more of it in the coming season.
+  
+
+  
+When you combine the CSI program that may already exist, with the floating air video display you essentially have what Tom Cruise used in Minority Report when manipulating on-screen images from the pre-cogs to solve the pre-crimes.
+  
+
+  
+Just recently I was introduced to the ideas of Toynbee from a bizarre [KC Star Article](http://www.kansascity.com/mld/kansascity/entertainment/6693767.htm). Here's an excert:
+  
+
+  
+
+
+<blockquote>"Toynbee, who lived from 1889 to 1975, was best known for his theory that humanity's perception of its history shapes its future. This theory was turned on its head and used as the premise for a 1983 Ray Bradbury short story titled 'The Toynbee Convector' in which a character by the name of Stiles travels 80 years into the future and returns with stories of mankind's marvelous achievements. Stiles' reports of a future free of war and disease prompts people to join forces to work together to attain this future and in 80 years they have succeeded. Stiles then reveals that his story was a lie. But the world he prophesied has nevertheless come to pass, validating a kind of corollary to Toynbee's theory, that humanity's perception of its future shapes its present."</blockquote>
+
+
+  
+Bradbury's twisting of Toynbee's theory applies here I think. Minority Report gave us a plausible vision of what the future would look like. As a result this perception of the future, people reshaped their present to accomplish it. Who knew when we watched Minority Report that the technology he used to fight pre-crime was 40 years old?

@@ -1,0 +1,14 @@
+---
+author: Ora
+comments: false
+date: 2002-11-14 02:33:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/12
+slug: '12'
+title: My New Word
+wordpress_id: 12
+---
+
+**My New Word**
+  
+Crap-a-Rooney: The state of being so bad that Andy Rooney does a commentary on it. I suppose if you watched 60 Minutes 2 it would have to be Crap-a-Grodin. That just doesn't sound right though.

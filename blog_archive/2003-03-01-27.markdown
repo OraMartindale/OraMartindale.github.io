@@ -1,0 +1,436 @@
+---
+author: Ora
+comments: false
+date: 2003-03-01 23:39:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/27
+slug: '27'
+title: No Content Found
+wordpress_id: 27
+---
+
+**GPS - _G_uys _P_oint me _S_omewhere**
+  
+This is a blatant solicitation for help. I've been interested in buying a GPS for quite a while. Almost two years ago I saw a show on [Geocaching](http://www.geocaching.com) and was facinated. In the following couple of years, most of my friends now have GPSes of their own and I'm still dreaming of one. So I'm calling out to all of the GPS owners out there for help.
+  
+
+  
+I'm in the market to buy one, though I reserve the right to drastically change my mind when I realize how little I would use it. But I was given some Christmas money and can think of nothing else to use it on so I better get it spent. I would prefer to go with a [Garmin](http://www.garmin) unit as they are the hometown company.
+  
+
+  
+My grandpa has the [basic eTrex](http://www.garmin.com/products/etrex/) which was the one that I was thinking of purchasing, but he recommended upgrading to the eTrex Legend which is what my uncle has. I totally agreed with both of the that the Legend was far superior, but it's also out of my budget. Oh... by the way, my budget is $140.
+  
+
+  
+Now Garmin has just come out with a new device called the Geko. I'm intrigued by several of the [Geko 201](http://www.garmin.com/products/geko201/)'s features, but don't know enough about the basic features to know if it would still do the things I want it to do. Of course I don't know what I want it to do. 
+  
+
+  
+Tied into all of this is that Garmin does not provide Mac software. From most of the user posts I've read they recommend [MacGPS](http://www.macgpspro.com/) for working with a Garmin eTrex. But I don't know if the software interface for Geko is the same as an eTrex and will I need to wait for someone to write new software for the Geko. (For anyone about to comment, Virtual PC is not an option.)
+  
+
+  
+So I need the GPS users out there to make their case for the system I should purchase. Tell me the features you use and why I should have them too. [Email me at ora@martindale.org.](mailto:ora@martindale.org)
+  
+
+  
+Update (3/4/03; 6:13 AM):
+  
+I emailed the makers of MacGPS and their response to me was though they do not have a Geko to test with as of yet, they will be making sure that MacGPS is compatible with it.
+  
+
+  
+Update (3/4/03; 8:19 AM):
+  
+I created the following table to help compare some of the features that probably would help in making a GPS purchasing decision. In my research I discovered the eTrex Legend has a $50 mail in rebate until June 6, bringing it's price down to $150. So I have decided to throw it back into the mix of possible systems to purchase:
+  
+
+  
+<table cellpadding="2" cellspacing="0" border="0" ><tr >
+<td width="28%" bgcolor="ABDEFF" >
+</td>
+
+eTrex
+
+Geko 201
+
+eTrex Legend
+
+Geko 101
+
+</tr><tr >
+<td ># of Waypoints
+</td>
+<td >
+
+500
+
+</td>
+<td >
+
+500 
+
+</td>
+<td >
+
+500
+
+</td>
+<td >
+
+250 
+
+</td></tr><tr >
+<td bgcolor="#CCCCCC" ># of Routes / # of Waypoints per Route
+</td>
+<td bgcolor="#CCCCCC" >
+
+1/50
+
+</td>
+<td bgcolor="#CCCCCC" >
+
+20/500 x 125* 
+
+</td>
+<td bgcolor="#CCCCCC" >
+
+20/50
+
+</td>
+<td bgcolor="#CCCCCC" >
+
+0/250
+
+</td></tr><tr >
+<td >Built in Memory
+</td>
+<td >
+
+None
+
+</td>
+<td >
+
+?
+
+</td>
+<td >
+
+8 MB
+
+</td>
+<td >
+
+?
+
+</td></tr><tr >
+<td bgcolor="#CCCCCC" >Maps
+</td>
+<td bgcolor="#CCCCCC" >
+
+None
+
+</td>
+<td bgcolor="#CCCCCC" >
+
+None
+
+</td>
+<td bgcolor="#CCCCCC" >
+
+Americas Highway  
+Atlantic Highway  
+Pacific Highway  
+Marine Point Database
+
+</td>
+<td bgcolor="#CCCCCC" >
+
+None
+
+</td></tr><tr >
+<td >Additional map options
+</td>
+<td >
+
+None
+
+</td>
+<td >
+
+None
+
+</td>
+<td >
+
+MapSource CD-ROM 
+
+</td>
+<td >
+
+None
+
+</td></tr><tr >
+<td bgcolor="#CCCCCC" >Weight
+</td>
+<td bgcolor="#CCCCCC" >
+
+5.3 oz.
+
+</td>
+<td bgcolor="#CCCCCC" >
+
+3.1oz 
+
+</td>
+<td bgcolor="#CCCCCC" >
+
+5.3 oz.
+
+</td>
+<td bgcolor="#CCCCCC" >
+
+3.1oz 
+
+</td></tr><tr >
+<td >Battery Life
+</td>
+<td >
+
+22 HR (2AA)
+
+</td>
+<td >
+
+12 HR (2AAA)
+
+</td>
+<td >
+
+18 HR (2AA)
+
+</td>
+<td >
+
+12 HR (2AAA)
+
+</td></tr><tr >
+<td bgcolor="#CCCCCC" >Display Size
+</td>
+<td bgcolor="#CCCCCC" >
+
+2.1 x 1.1
+
+</td>
+<td bgcolor="#CCCCCC" >
+
+1.44 x .92
+
+</td>
+<td bgcolor="#CCCCCC" >
+
+2.1 x 1.1
+
+</td>
+<td bgcolor="#CCCCCC" >
+
+1.44 x .92
+
+</td></tr><tr >
+<td >Pixels (H x W)
+</td>
+<td >
+
+128 x 64
+
+</td>
+<td >
+
+100 x 64
+
+</td>
+<td >
+
+288 x 160
+
+</td>
+<td >
+
+100 x 64
+
+</td></tr><tr >
+<td bgcolor="#CCCCCC" >TracBack Mode
+</td>
+<td bgcolor="#CCCCCC" >
+
+Yes
+
+</td>
+<td bgcolor="#CCCCCC" >
+
+Yes
+
+</td>
+<td bgcolor="#CCCCCC" >
+
+Yes
+
+</td>
+<td bgcolor="#CCCCCC" >
+
+Yes
+
+</td></tr><tr >
+<td ># of Tracklog Points
+</td>
+<td >
+
+1,536
+
+</td>
+<td >
+
+10,000
+
+</td>
+<td >
+
+2,048
+
+</td>
+<td >
+
+3,000
+
+</td></tr><tr >
+<td bgcolor="#CCCCCC" >Unit Size (H x W x D)
+</td>
+<td bgcolor="#CCCCCC" >
+
+4.4 x 2.0 x 1.2
+
+</td>
+<td bgcolor="#CCCCCC" >
+
+3.9 x 1.9 x .96
+
+</td>
+<td bgcolor="#CCCCCC" >
+
+4.4 x 2.0 x 1.2
+
+</td>
+<td bgcolor="#CCCCCC" >
+
+3.9 x 1.9 x .96
+
+</td></tr><tr >
+<td >WAAS capability
+</td>
+<td >
+
+No
+
+</td>
+<td >
+
+Yes
+
+</td>
+<td >
+
+Yes
+
+</td>
+<td >
+
+Yes
+
+</td></tr>  <tr bgcolor="#CCCCCC" >    
+<td >Built-In Electronic Compass
+</td>
+<td >
+
+No
+
+</td>
+<td >
+
+Yes
+
+</td>
+<td >
+
+No
+
+</td>
+<td >
+
+Yes
+
+</td></tr><tr >
+<td >Color
+</td>
+<td >
+
+Yellow
+
+</td>
+<td >
+
+Canopy Green
+
+</td>
+<td >
+
+Blue
+
+</td>
+<td >
+
+Yellow
+
+</td></tr>
+  
+<tr bgcolor="#CCCCCC" >
+<td >Games
+</td>
+<td >
+
+No
+
+</td>
+<td >
+
+Geko Smak  
+Memory Race  
+Nibbons  
+Virua Maze
+
+</td>
+<td >
+
+No
+
+</td>
+<td >
+
+No
+
+</td></tr><tr >
+<td >Price
+</td>
+
+$105
+
+$140
+
+$150 till 6/6/2003
+
+$100
+
+</tr></table>
+  
+* The 125 represents legs that can run off each route.

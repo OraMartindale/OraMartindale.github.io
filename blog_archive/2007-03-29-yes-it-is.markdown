@@ -1,0 +1,14 @@
+---
+author: Ora
+comments: false
+date: 2007-03-29 23:37:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/yes-it-is
+slug: yes-it-is
+title: '"Yes, it is."'
+wordpress_id: 266
+categories:
+- Aspen
+---
+
+I asked if something was Aspen's tonight and she replied "Yes, it is." I stopped and wondered what causes a 3-year-old who is still learning to speak to answer with a full "Yes, it is" instead of simply "Yes"?

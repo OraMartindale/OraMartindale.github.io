@@ -1,0 +1,14 @@
+---
+author: Ora
+comments: false
+date: 2008-11-03 22:06:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/ora-on-tv
+slug: ora-on-tv
+title: Ora on TV
+wordpress_id: 408
+---
+
+For anyone who is out of the KC area (or those without TVs), here's the video:  
+  
+[Will Companies Keep Flexible Schedules?](http://www.nbcactionnews.com/mediacenter/videoplayer/dayportPlayer.aspx?articleIds=416439,416446,416458,416450,416300,416299,416301,416298,416290,416294,416289,416130,416133,416132,416129,415903,416292,415902,415901,415893,415894,415895,415817,415815,415759,415749,415750,416461,416460,416438&categoryId=4295&loadPlaylist=true&contractId=2&articleID=416439)

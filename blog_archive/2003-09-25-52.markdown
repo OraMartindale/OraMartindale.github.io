@@ -1,0 +1,84 @@
+---
+author: Ora
+comments: false
+date: 2003-09-25 22:13:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/52
+slug: '52'
+title: No Content Found
+wordpress_id: 52
+---
+
+**Macromedia Central**
+  
+[![](http://www.macromedia.com/software/central/images/central_sm.gif)](http://www.macromedia.com/go/central)I've heard little bits and pieces about Macromedia Central, but today I saw they've released a beta of it. This product is pretty interesting. Essentially it is a non-browser based Internet application. Many people are now working towards applications that don't need a browser, but still access the web to get information (commonly through web services).
+  
+
+  
+The reasoning behind this has usually been that the browser does not provide for the best user experience. Macromedia began this argument by talking about Rich Internet Apps (RIAs). They backed it up with RIAs such as the [Broadmore Hotel](https://reservations.ihotelier.com/onescreen.cfm?hotelID=2054&languageID=1). This app not only provides a user-friendly and intuitive interface, but it is actually smaller in file size than the original HTML based application was.
+  
+
+  
+Although RIAs improved the user-experience, these were still browser-based applications. Watson was the first example that I know of that had a wonderful internet user-experience that rejected using the browser. Watson creator Dan Wood said in [an interview with O'Reilly and Associates](http://www.macdevcenter.com/pub/a/mac/2002/09/26/dev_osx.html):
+  
+
+
+<blockquote>Well, I've been a fan of good user interfaces, which is why I've stuck with the Mac through the dark times. And I love what the Web has done to affect people's lives, but I hate its non-standardized, minimalist user interface. In a sense, the Web is a great big "dumb terminal" with fonts and graphics. Using the Web, I yearn for the subtle user interface behaviors and consistent controls you get in a real desktop application, like buttons enabling and disabling when it's appropriate to use them, scrollable lists, dynamically adjusting displays, things like that. To me, Watson is a way of taking back the great user experience that the Mac perfected. I still get a kick out of zipping through a site using Watson's columns browser that would otherwise require page after page after page on my browser.</blockquote>
+
+
+  
+So the idea is not new; both [Watson](http://www.karelia.com/watson/) and [Sherlock](http://www.apple.com/sherlock/) have grasped upon this concept, but Macromedia has added some unique ideas to their implementation that excite me more than other applications:
+  
+
+  
+_Buy/Try Feature_
+  
+Have you ever downloaded software from the internet that is free to try for 30 days and then you have to purchase it? It the past the programmer would have had to build this trial-period functionality into her own application. Central builds this feature into the program, so the software producer doesn't have to worry about it; she can simply set her price and put it out there for people to try and buy. I am interested to know if the producer can also decide how long the user can try the application.
+  
+
+  
+When you use this feature Macromedia will take a portion of the purchase and then put the money into an account that you designate. I think this is another brilliant move by Macromedia: They get recurring revenue for providing the marketplace for everyones' apps.
+  
+
+  
+Now if you just want to create an app that won't be sold, but you and two buddies will use, you can provide it for free from any web site for them to download and install into Central.
+  
+
+  
+_"Occasionally Connected Computing"_
+  
+One of the core ideas of Central and where I think it finds its brilliance is the idea that computers, handhelds and cell phones are only occasionaly connected to a network. Central remembers all the data that each application within it received will connected to a network and uses that same information when you're not connected. Anything you do within the application that would require it to go out to the Internet will wait until it is reconnected to a network and then do its thing.
+  
+
+  
+All the information that you need from the Internet available to you even when you are not connected to the Internet.
+  
+
+  
+_Ubiquitous Program_
+  
+Central uses Flash. For any techies reading, your application is essentially a SWF file that gets imported into Central, the root SWF. 73% of Internet users already have the Flash software on their computer, so Central can already work on 73% of Internet users computers! What other software (besides Windows) has such ubiquity?
+  
+
+  
+_Cross Platform_
+  
+Watson and Sherlock are both Mac OS X only programs. Since Central is using Flash it works on any platform that Flash can currently work on. This means any program that you would write for Macromedia Central is already available for multiple platforms (Mac, Windows, Linux, etc). I have a feeling Microsoft will not like this.
+  
+
+  
+So who cares?
+  
+This really excites me because it opens up amazing possibilities. My buddies and I have been looking at taking on new projects. We all care very much about the user experience.
+  
+
+  
+When looking at one project a buddy and I realized that we would probably want to use Access to build it (had to have a database). This means that the interface would not be user friendly, we would have to purchase Access for the customer's computer and our development would be locked into a Windows environment, even though some of the potential future users would be on various versions of Mac OS. To overcome this limitation we could potentially create the whole project to work on the web at some point in the future, but this would only be workable for someone who was working on the web when they wanted to work with the project. Or...
+  
+
+  
+We could build one application for Macromedia Central. Immediately we would have a very user friendly application that would work on multiple platforms. The only additional software needed would be Central and most people are already going to have the Flash player. The distribution and billing model is already in place. We don't have to build trial-period logic into the application.
+  
+
+  
+In Central Macromedia has created an innovative application that could position it as the future of cross-platform development. Sorry Microsoft and Sun.

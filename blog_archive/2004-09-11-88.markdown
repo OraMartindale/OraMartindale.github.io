@@ -1,0 +1,14 @@
+---
+author: Ora
+comments: false
+date: 2004-09-11 16:30:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/88
+slug: '88'
+title: No Content Found
+wordpress_id: 88
+---
+
+**Apsen and Aspen**
+  
+I noticed that Ora has stopped saying "Apsen" and started saying "Aspen."

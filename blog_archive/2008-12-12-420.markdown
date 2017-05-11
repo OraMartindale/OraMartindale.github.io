@@ -1,0 +1,19 @@
+---
+author: Ora
+comments: false
+date: 2008-12-12 05:00:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/420
+slug: '420'
+title: No Content Found
+wordpress_id: 420
+categories:
+- books
+---
+
+[![The Forgotten Man: A New History of the Great Depression](http://photo.goodreads.com/books/1182531548m/1289617.jpg)](http://www.goodreads.com/book/show/1289617.The_Forgotten_Man_A_New_History_of_the_Great_Depression?utm_medium=api&utm_source=blog_review) [The Forgotten Man: A New History of the Great Depression](http://www.goodreads.com/book/show/1289617.The_Forgotten_Man_A_New_History_of_the_Great_Depression?utm_medium=api&utm_source=blog_review) by [Amity Shlaes](http://www.goodreads.com/author/show/101131.Amity_Shlaes)  
+rating: 4 of 5 stars
+
+This is a well-researched book that gives a very interesting history of the Great Depression. The author makes numerous parallels to the current economic situation. Her main arguments are that (1) many of FDR's cabinent members were heavily influenced by Russian Communism and that (2) it was not FDR's government spending on works projects, new government organizations, etc. that brought us out of the depression, but rather World War 2.
+
+I can't argue with the first point as she has her argument well documented. On the second point however, Robert Reich, an Obama advisor, pointed out, it may not have been government spending on works projects, new government organizations, etc., that brought us out of the depression, but _government spending on World War 2_ that did.

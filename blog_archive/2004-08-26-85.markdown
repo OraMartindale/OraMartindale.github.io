@@ -1,0 +1,14 @@
+---
+author: Ora
+comments: false
+date: 2004-08-26 23:03:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/85
+slug: '85'
+title: No Content Found
+wordpress_id: 85
+---
+
+**10 little numbers**
+  
+Ora 5 counted to 10 tonight for the first time.

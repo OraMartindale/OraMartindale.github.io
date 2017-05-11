@@ -1,0 +1,16 @@
+---
+author: Ora
+comments: false
+date: 2007-05-02 20:40:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/evil-plan
+slug: evil-plan
+title: Evil Plan
+wordpress_id: 273
+categories:
+- Ora 5
+---
+
+Enid found Ora 5 writing something today. "What are you doing?" she asked.  
+  
+"I'm making my evil plan," Ora responded.

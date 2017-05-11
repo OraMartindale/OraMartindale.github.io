@@ -1,0 +1,88 @@
+---
+author: Ora
+comments: false
+date: 2002-11-14 05:19:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/13
+slug: '13'
+title: What Would Jesus Drive?
+wordpress_id: 13
+---
+
+**What Would Jesus Drive?**
+  
+A friend, we'll call him Mr. B, sent me an email today about a group that was purporting that Christians should only drive fuel-efficient vehicles. The group basically states that as Christians we are stewards of what God has given us and that includes the world we within which we live. This resonated with me because  it's a subject that I have been thinking about lately. There are, however, some thoughts that I can't see their point of view:  In their magazine, Creation Care, some of the articles are entitled "Transportation is a Moral Issue," and "Walk the Walk, Drive the Talk." They also say that they were formed because they recognized that "many 'environmental' problems are fundamentally spiritual problems." (http://www.creationcare.org) I also have a tough time with this one.
+  
+
+  
+As I said, parts of what they have said resonate with me. I'm more of an environmentalist than I usually let on or that my "usual crowd" would accept. I don't like that I drive a gas-guzzling car, I can't see ever building my own house and contributing to urban sprawl, I would ride the bus if my city didn't have the national recognized worst metro transportation system in the country, I recycle not because I'm trying to save the planet but because landfills are just like cemetaries: a waste of space.
+  
+
+  
+There seems to be a great divide with no middle ground in the arena of the environment: On one side you have liberal environmentalists who believe that we are destroying our planet and any moment we won't be able to breath or an ozone hole will suddenly open and incinerateus. On the other you have those who reject completely the idea that we are affecting the pollution of our environment. The Creation Care group seems to be toward the liberal end of that. 
+  
+
+  
+As a Christian what should my responsibility to my environment be?
+  
+Is the earth part of God's stewardship to me? 
+  
+If so, how should we be looking after it?
+  
+
+  
+What follows are my ramblings as I think out loud. It forms the basis of research that I've considered doing, but will never actually get to do, for a book on the subject of a Christian's stewardship of God's creation. Genesis 1:28-30 speaks of God giving all the animals and all the plants to man for him to rule over and subdue (a word study on the words rule and  subdue would be appropriate here). After the fall  man and the earth were affected by Adam's sin. It stands to reason that the earth would continue to degrade throughout history. 
+  
+
+  
+I think a lot of the "Christian" attitudes I hear concerning the environment either come from their view of the beginning or end of the Bible. The Genisis Environmental Approach: The earth is cursed because of man's sin; nothin' we can do about it now. The Revalation Environmental Approach: The earth is going to be destroyed soon and a new one created, so why worry about this one. I think soon is the key word in that second one. Some people are so convinced that the end will occur in our lifetimes that it doesn't matter what happens to the earth. Although I believe the Lord's return could be at any time, I do not believe current events dictate that it will happen soon. The Lord could have returned at any point during history. Arguments that the technological or political climate hasn't been right until recently ignore God's omnipotent and supernational abilities, but that is a whole other rant.
+  
+
+  
+I think there must be a balanced approach somewhere. I do not believe that we are destroying our planet as fast as we believe we are. I donnot believe that earth is as fragile as many believe. But we should still be good stewards of the earth. I don't think anyone can go to LA or Denver, look around at the smog and believe that we aren't doing some harm. In another 30 years you won't be able to see the Rocky Mountains from Denver! 
+  
+
+  
+We should recycle. It reuses what God gives us in a practical way and reduces landfill use. We should be concerned when we see polluted areas that need to be cleaned. We should stop and pick up trash that blows through our neighborhood or work parking lots and throw it away properly. We should ask corporations to be more responsible with pollution.
+  
+
+  
+**Hydrogen Cars**
+  
+That last discussion leads me into an area that I was talking to a coworker today about. Bush's administration is pushing for the auto industry to look toward cars that work on [hydrogen fuel cells](). I don't like big government; I believe the government should do very few things and do them well and then stay out of everyone else's business. However, there is one industry that has repeatedly shown it's disregard for progress, for becoming a better steward of our environment and for the safety of the public: the auto industry. It's one industry I think the government should consistently kick in the pants. I'm glad to see Bush pusing for them to do more in the area of fuel-effeciency. For years they have said that the public doesn't want fuel-efficient cars, but now that they are starting to slip onto the market, dealers are finding they have waiting lists for the cars that no one wanted.
+  
+
+  
+When I began this blog I wanted to talk about two things: my search for a job in a Christian company or organization and what my friend, we'll call him Agent J, calls "Transparent Computing" or "Transparent Technology." He has talked about it for years and defined it to me as using a computer or an aspect of technology and not knowing that you are using a computer. We see this everywhere and people don't know it. Your toaster has a small computer in it. Your coffee maker does. Your microwave does. All around us are items that we use and don't perceive we are using a computer. It's "transparent" to us. 
+  
+
+  
+We very much are aware that when we sit down to enter our blog's or work in Word that we are at a computer, but someday we may not. Already we see the subtle shift as TVs become large computer monitors. Our cable channel menu is basically a computer program with which we use a remote control as our interface to it. As voice recoginition becomes better we may simply talk to our TV screens and have it transcribe our message into a Word doc or a blog. At that point are you talking to your TV, your stereo's microphone, or a computer? Of course a computer chip and software still handle it, but the idea that we sitting down in front of a computer is gone.
+  
+
+  
+An example of this is [GM's new concept car](http://money.cnn.com/2002/01/08/autos/auto_tech/). They decided to throw out 100 years of car history and build a car as if they were inventing it today. What they came up with is a car that uses a chasis packed with fuel cells on which any car style can fit. The cars steering wheel, accelerator and brake all talk to the bottom chasis via a wireless network. The car driving experience for the driver could remain the same as any car today; however underneath is computer sending signals to wheels that are no longer attached by cranks and levers but by a single wire.
+  
+
+  
+While I've already said that they car buyers/drivers experience could remain the same, GM has other ideas. Their [chassis can fit many car types](http://www.cnn.com/2002/WORLD/europe/09/19/hywire.cars.glb/index.html): SUVs, station wagon, family car, minivan, sports car. This system could save GM millions of dollars if all their cars could use the same chassis. They've also proposed that a person could by one chassis and two different car bodies. The equivalent of changing faceplates on your cell phone. Do you want to take the sports car or the SUV to work today?
+  
+
+  
+In my mind this new type of car technology opens up all sorts of possibilities such as cars that drive themselves. Bluetooth, or a similar technology, could enable the inter-car communication instead of the single wire, but a ad hoc wireless network between cars on the road could allow the cars to communicate with each other. My car could negotiate with another car how fast they were going. My car could slow down a car ahead signaled that it was having to slow down. My car could merge onto a road because it had told the other cars it needed in and they provided space for it.
+  
+
+  
+It also has potential for road signs. Long before Tipper Gore was a first lady hopeful and even before she got those Parental Advisory stickers stuck on all the CDs, she was trying to rid the country of so many road signs; now she could. Using in in-dash display, already available in many new cars, advertisers could send their ads to the car directly. If a driver didn't want to see the road signs, they could pay a subscription service to block the signs or to only show ads for services in which he/she was interested. Imagine a family on vacation at the end of day of driving. They could ask for only those ads that were for hotels or campgrounds. Speed limit signs, exit markers and many other items could all be sent to the cars in-dash display.
+  
+
+  
+Of course these ideas aren't without technical limitations. First we have the chicken and the egg scenario: How do cars that drive themselves negotiated with your 80's era Pinto? With no ability to communicate with newer cars the Pinto could spell disaster if it can't talk to the newer cars. The newer cars would have to have some very advanced avoidance detection to work with non-Wifi cars.
+  
+
+  
+How do cars that drive themselves know where the lanes are or where to exit? Although GPS systems are available to cars and probably accurate enough to handle this, no map exists that contains such detail. My co-worker and I were talking of this and he mentioned an idea that he had heard in which computer chips would be placed under the highways to guide the cars; however, this would be quite costly and a lot of work to dig up highways and carefully place chips. So the second idea they had was to put the chips down under the painted lines. It would be very quick and easy to drop the chips and then paint over them. While brainstorming I began to wonder about the benefits on nanotechnology in this area.This chips could be microscopic and mixed _into_ the paint. It will be years before wireless chips can reach microscopic size, but the potential is there.
+  
+
+  
+You also have to deal with hackers and crackers. We have enough ad hoc networks getting entered by people driving by with WiFi laptops. What happens when the WiFi network is driving by them? Two aspects they will have to think about it are the inter-car communications (steering wheel talking to wheels) but also the intra-car communication (talking car to car). That's something for a security expert to think about, but an important safety concern.

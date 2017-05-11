@@ -1,0 +1,12 @@
+---
+author: Ora
+comments: false
+date: 2008-08-21 03:00:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/ice-maker
+slug: ice-maker
+title: Ice Maker
+wordpress_id: 382
+---
+
+The new ice maker arrived tonight, so with the help of Ora 5 and Aspen, I uninstalled the old one and put the new one in. Tomorrow we'll see I did it right.

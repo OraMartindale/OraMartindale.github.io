@@ -1,0 +1,12 @@
+---
+author: Ora
+comments: false
+date: 2004-12-24 19:00:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/im-a-mouse
+slug: im-a-mouse
+title: '"I''m a Mouse"'
+wordpress_id: 118
+---
+
+Grandpa gave Ora 5 a piece of cheese and he took it, ran into a corner, crouched down and said "I'm a mouse." and then proceeded to nibble on his cheese.

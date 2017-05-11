@@ -1,0 +1,12 @@
+---
+author: Ora
+comments: false
+date: 2006-11-16 05:00:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/adding-to-30-by-1s
+slug: adding-to-30-by-1s
+title: Adding to 30 by 1s
+wordpress_id: 232
+---
+
+Ora went to 20 and kept right on going to 30.

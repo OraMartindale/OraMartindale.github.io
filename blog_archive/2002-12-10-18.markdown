@@ -1,0 +1,14 @@
+---
+author: Ora
+comments: false
+date: 2002-12-10 04:32:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/18
+slug: '18'
+title: Earthlink
+wordpress_id: 18
+---
+
+**Earthlink**
+  
+I've been without Internet access at home for a week. I've always been a big supporter of local ISPs as it was one that gave me my first "industry job." I switched to a national company because it was a Christian company that donated 10% of the monthly bill to Christian ministries. However, after months of poor service, support idiots who had no idea what a Mac was and now 1 week sans Internet, I've dropped them. For the first time I'm paying over $20 a month for Internet service and with one of the Big Dogs: Earthlink. I'm considering it a baby step to cable Internet access in the future.

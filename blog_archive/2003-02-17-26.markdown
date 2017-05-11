@@ -1,0 +1,40 @@
+---
+author: Ora
+comments: false
+date: 2003-02-17 03:27:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/26
+slug: '26'
+title: No Content Found
+wordpress_id: 26
+---
+
+**Goodbye tape, hello DVD**
+  
+Last month in Las Vegas the annual Consumer Electronics Show (CES) was held. Each year the newest devices are shown off so that buyers can get a taste of what's coming. We'll look at some of the technologies in the next few blogs.
+  
+
+  
+The first that we'll start out with is and announcement by Sony. Sony has always led the camcorder race. They created the first one-piece consumer camcorder 17 years ago. At CES they announced a Digital Video (DV) camcorder that instead of recording to tape or a memory card this one records to a DVD. This is not new as some camcorders already do this; however, most of them encase the DVD in a plasic. If you haven't seen this, imagine a clear floppy disk with a DVD inside. What is new is that this DVD is not encased. You can remove it from the camcorder and place it into your DVD player for viewing or into your computer for editing the video. 
+  
+
+  
+Now some of you may be wondering how big the camcorder would be to fit a DVD in it. The DVDs the camcorder uses are not the full size 4.25 inch discs but rather 3.5 inch discs. A normal size DVD can hold 4.7 gigabyes of data. 3.5 inch CDs hold 30% the amount that a full-size discs hold, so I estimated the smaller DVDs would be about 1.4 gigabyes in size. A quick search confirmed this. Sony says that this disk will hold approximately one hour of video.
+  
+
+  
+CNet has a [video of the new camcorder](http://news.com.com/1601-2-980374.html). It metions that three models will come out this summer starting under $1000 (marketing translation =  the cheapest one will be $999.99).
+  
+
+  
+I imagine that this is the future of camcorders. Being able to remove the media you are recording to and place it directly into a DVD player or edit on a computer is a stark improvement over hooking your camcorder up to the TV or computer. Small DVDs are also much easier to store than tapes.
+  
+
+  
+**The MPEG talk**
+  
+DVDs, and therefore the camcorder we have been discussing, use an encoding format called MPEG2. encoding is simply taking a video and compressing it to a smaller size, generally by removing the information that the human eye would never catch. MPEG2 will compress the video to 1/55th its original size. A newer format has arrived called MPEG4. MPEG4 can compress to 1/5th the size of MPEG2 and more advancements in MPEG4 are being finalized. 
+  
+
+  
+The question is will it replace MPEG2? In many areas it has already begun to do so, such as on cable and satelite networks. But for use in DVDs it's hard to imagine asking everyone to throw away their DVDs and replace them with ones that will work in their MPEG4 DVD players. I would guess that the new MPEG 4 DVDs will be sold as High Definition DVDs and the players will most likely be able to play both the MPEG2 and MPEG4 DVDs. At that point Sony would probably also begin using MPEG4 in their line of DVD camcorders as well.

@@ -1,0 +1,14 @@
+---
+author: Ora
+comments: false
+date: 2009-03-18 22:31:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/dead-ants
+slug: dead-ants
+title: Dead Ants
+wordpress_id: 437
+categories:
+- Ora 5
+---
+
+We bought ants for Ora 5's existing ant farm recently. (The ants die after about 3 months and you have to buy new ones.) However, when the new ones arrived today, they were all dead. Probably got too hot or too cold on the way. Enid contacted the company and they are shipping out new ants today, but Ora is very disaapointed.

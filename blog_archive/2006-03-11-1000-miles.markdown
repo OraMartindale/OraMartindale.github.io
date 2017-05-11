@@ -1,0 +1,12 @@
+---
+author: Ora
+comments: false
+date: 2006-03-11 05:02:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/1000-miles
+slug: 1000-miles
+title: 1000 Miles
+wordpress_id: 183
+---
+
+The new van rolled over (incremented past?) 1000 miles on the way home tonight.

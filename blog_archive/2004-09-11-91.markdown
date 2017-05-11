@@ -1,0 +1,34 @@
+---
+author: Ora
+comments: false
+date: 2004-09-11 18:31:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/91
+slug: '91'
+title: No Content Found
+wordpress_id: 91
+---
+
+**A typical conversation between Ora 4 & Ora 5**
+  
+5: "Boose."
+  
+
+  
+4: "Caboose?"
+  
+
+  
+5: Nods. "Boose." Points to the Garage.
+  
+
+  
+4: "Is the caboose in the garage?"
+  
+
+  
+5: "Okay."
+  
+
+  
+4: Thinks: _What does that mean?_

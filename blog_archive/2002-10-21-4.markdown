@@ -1,0 +1,16 @@
+---
+author: Ora
+comments: false
+date: 2002-10-21 13:15:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/4
+slug: '4'
+title: Veggietale's Jonah
+wordpress_id: 4
+---
+
+<table ><tr >
+<td valign="top" >[![](http://www.jonahmovie.com/html/downloads/images/thumb_wallpaper.jpg)](http://www.jonahmovie.com)
+</td>
+<td valign="top" >According to [Box Office Guru](http://www.boxofficeguru.com) Jonah has jumped back into the top 10 movies this weekend and made $16.2 million. CNN had called Jonah Big Idea's [$14M movie gamble](http://www.cnn.com/2002/SHOWBIZ/Movies/10/04/film.veggie.tales.ap/index.html). Looks like it's going to pay off particularly when video sales, Big Idea's strong suit, begin. Hopefully, I'll get a chance to go see it sometime soon.
+</td></tr></table>

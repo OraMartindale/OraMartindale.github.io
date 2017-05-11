@@ -1,0 +1,18 @@
+---
+author: Ora
+comments: false
+date: 2002-12-16 12:18:00+00:00
+layout: post
+link: http://www.martindale.org/blog/ora/talks/about/19
+slug: '19'
+title: No Content Found
+wordpress_id: 19
+---
+
+**Earthlink, No More?**
+  
+Well, it appears Earthlink is having the same problems my old service had. 2 Accounts + Same Problem = Computer problem. Anyone who has worked tech support will know the formula. 
+  
+
+  
+I've changed the settings to the old service with intermittent responsiveness. I'll have to play around some more and see what I can figure out. I'll changed the Earthlink settings to the same as my old account, but this doesn't seem to have improved it.  We may be going back to the old account after all.
